@@ -1,8 +1,8 @@
 {
-  "name": "node-rdm",
+  "name": "rdm-core",
   "version": "0.0.0",
-  "description": "Relational data model for NodeJS",
-  "homepage": "https://github.com/lyweiwei/node-rdm",
+  "description": "Relational data model",
+  "homepage": "https://github.com/lyweiwei/rdm-core",
   "author": {
     "name": "Wei Wei",
     "email": "lyweiwei@outlook.com",
@@ -42,7 +42,7 @@
       "mocha": true
     }
   },
-  "repository": "lyweiwei/node-rdm",
+  "repository": "lyweiwei/rdm-core",
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
